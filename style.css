@@ -1,0 +1,46 @@
+.n{
+	border-radius: 0px;
+	background-color: rgba(0,0,0,0.8);
+}
+
+
+
+
+
+.mt{
+  margin-bottom: 200px;
+  text-align: left;
+  font-size: 90px;
+  font-family: "Mistral", Cooper,Corbal;
+  color: #ff2848;
+}
+
+li{
+	box-sizing: content-box;
+	width: 150%;
+}
+
+
+
+.r{
+	margin: 50px;
+}
+
+.boxx{
+	margin: 20px;
+	color: yellow;
+	font-size: 48;
+	background-color: rgba(1,1,1,1);
+	font-family:"Cooper",Corbal,Mistral;
+	padding: 48px;
+}
+
+.in{
+	text-align: left;
+	font-size: 80px;
+	font-weight: bold;
+}
+
+#t{
+
+}
