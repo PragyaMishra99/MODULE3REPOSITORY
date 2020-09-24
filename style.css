@@ -27,12 +27,12 @@ li{
 }
 
 .boxx{
-	margin: 200px;
+	margin: 4px;
 	color: yellow;
 	font-size: 48;
 	background-color: rgba(1,1,1,1);
 	font-family:"Cooper",Corbal,Mistral;
-	padding: 48px;
+	padding: 100px;
 }
 
 .in{
