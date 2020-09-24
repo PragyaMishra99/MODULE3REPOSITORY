@@ -27,7 +27,7 @@ li{
 }
 
 .boxx{
-	margin: 20px;
+	margin: 200px;
 	color: yellow;
 	font-size: 48;
 	background-color: rgba(1,1,1,1);
@@ -36,7 +36,7 @@ li{
 }
 
 .in{
-	text-align: left;
+	text-align: center;
 	font-size: 80px;
 	font-weight: bold;
 }
